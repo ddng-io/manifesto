@@ -84,9 +84,11 @@ the pattern is often the same:
 - A person that is supposed to be able to bring that change
 - A logo and branding by the party of choice
 
+<!--
 ![A%20new%20way%20to%20do%20politics%20d66a6ce5ab814c56b62fedf5ee80842e/Untitled.png](A%20new%20way%20to%20do%20politics%20d66a6ce5ab814c56b62fedf5ee80842e/Untitled.png)
 
 En: The future needs new ideas. And someone that enacts them.
+-->
 
 Only few parties deviate from this pattern. A _nested direct democratic party_ could instead offer a
 poster that simply reads
