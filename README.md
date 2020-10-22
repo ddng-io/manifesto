@@ -1,9 +1,12 @@
+<!--
 - incremental improvements vs disruptions. The ebb and flow of these two tidal forces
 - democracy as an idea has been invented millenia ago but to this day, it's hardly been
     exercised in its true form. Nation states like to tout their democratic virtues, yet
     few of them actively pursue a design of continuous incremental democratisation. 
 - modern national democracies are the product of technological and cultural environments
     of the last 2-300 years. 
+
+-->
 
 
 # A new way to do politics
