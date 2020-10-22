@@ -21,8 +21,6 @@ answered by friends and followers. In a way, social media likes offer instant fe
 to billions of people. Yet, the most important decisions in our society are
 made through numerous layers and filters. Our so called "representative democracies".
 
-we select politicians, with X year feedback cycle
-
 Somehow, the system of selecting a universal representative for a fixed-term became
 completely self-evident. Every few years, we get to pick one of a few chosen people who
 we barely know to speak in our stead on topics ranging from day-care to fighter yets.
