@@ -30,7 +30,6 @@ we barely know to speak in our stead on topics ranging from day-care to fighter 
 Broken promises or false claims can only be reacted to once the next voting cycle draws
 close. Equally, long-term benefits are regularly dismissed over short-term popularity. 
 
->> the generational divide of climate change
 
 Looking at recent events, another theme becomes relevant: The divide between those that take
 actions and those that need to live with the consequences. _Fridays for Future_
