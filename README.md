@@ -12,6 +12,7 @@
 # A new way to do politics
 
 **Created**: Aug 23, 2020 11:25 AM
+
 **Status**: Early draft
 
 ## Motivation
