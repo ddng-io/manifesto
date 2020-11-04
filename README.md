@@ -9,7 +9,9 @@
 -->
 
 
-# A new way to do politics
+# Direct Democracy - Next Generation
+
+**A new way to do politics. Using 21st century solutions for 21st century problems!**
 
 **Created**: Aug 23, 2020 11:25 AM
 
