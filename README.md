@@ -15,6 +15,8 @@
 
 **Status**: Early draft
 
+[Get involved](https://github.com/ddng-io/manifesto/blob/master/CONTRIBUTING.md)
+
 ## Motivation
 
 In the age of social media, anyone can receive feedback on the most mundane of
